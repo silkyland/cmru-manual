@@ -4,6 +4,8 @@
 
 เพื่อให้ระบบสามารถรับรายงานการลงเวลาผ่าน Line Notify ได้ คุณต้องทำการตั้งค่า Line Notify ให้เรียบร้อยก่อน โดยการทำตามขั้นตอนดังนี้
 
+###  หมายเหตุ: สำหรับระบบปฏิบัติการ Android หรือ iOS บางเครื่อง 
+
 1. เข้าไปที่เว็บไซต์ <https://checkin.cmru.ac.th/admin/authorize> หรือ สแกน QR Code ด้านล่างนี้ ด้วยโทรศัพท์มือถือ
 
    ![qrcode](https://checkin.cmru.ac.th/assets/images/qrcode-line.png)
