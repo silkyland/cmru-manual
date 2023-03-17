@@ -8,6 +8,6 @@
 
    ![](https://checkin.cmru.ac.th/assets/images/qrcode-line.png)
 
-   ![](https://raw.githubusercontent.com/CMRU/line-notify/master/scan.png)
+   ![](https://raw.githubusercontent.com/silkyland/cmru-manual/main/assets/scan.jpg)
 
 2. กดปุ่ม “เข้าสู่ระบบด้วย Line Notify” แล้วเลือกบัญชีที่ต้องการใช้
